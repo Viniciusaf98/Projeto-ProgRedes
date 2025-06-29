@@ -1,7 +1,7 @@
 import sys, os, subprocess, requests, time, socket, threading
 
 # Token do bot e URL base
-TOKEN = '7610954512:AAFX1g8OZQ7vsOWg7R4fQoh7_OPhQmft4NU'
+TOKEN = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 strURL = f'https://api.telegram.org/bot{TOKEN}'
 ultimo_update_id = 0  
 
